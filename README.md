@@ -9,9 +9,7 @@
 
 ## 💼 Current Roles
 - 🎓 Intern @ **Teklearn** (Data Science)
-- 📚 Enrolled in:
-  - IBM AI Fundamentals Course
-  - Cisco Python Essentials
+
 
 ## 👨‍💻 Projects & Learning Portfolio
 Here’s what I’ve been working on:
