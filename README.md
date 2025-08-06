@@ -27,7 +27,9 @@ Here’s what I’ve been working on:
 
 ## ✍️ Latest Blog Work
 I write about coding, learning tips, my coding experiences as beginner etc
-📍 Blog: [Steps to Tech World](https://steps-to-tech-world.blogspot.com/)
+  Blog: [Steps to Tech World](https://steps-to-tech-world.blogspot.com/)
+  Blog: [STEPS-TO-TECH-WORLD](https://steps-to-tech-world.hashnode.dev/)
+
 
 
 ---
