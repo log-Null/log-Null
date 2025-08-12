@@ -37,22 +37,22 @@ I write about coding, learning tips, my coding experiences as beginner etc
 ## 📌 Currently Learning
 - Python (Advanced syntax + problem-solving)
 - Pandas, NumPy, Matplotlib
-- Gen AI fundamentals & LangChain
+- Gen AI fundamentals 
 - HackerRank Beginner Series
-- Prompt Engineering & AI tools
+-  AI tools
 
 ---
 
-## 🧠 Goals for 2025
+## 🧠 Goals 
 - ✅ Build a strong project portfolio
 - 📜 Publish technical blogs consistently
 - 🏆 Participate in hackathons 
-- 💼 Land a role in AI, Data, or Cybersecurity by graduation
+  
 
 ---
 
 ## 📫 Let's Connect
-- Blog: [Steps to Tech World](https://steps-to-tech-world.blogspot.com/)
+- Blog: [Steps to Tech World](https://steps-to-tech-world.hashnode.dev/)
 - X (Twitter): [@log_Null](https://x.com/log_Null)
 
 ---
