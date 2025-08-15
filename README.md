@@ -56,5 +56,7 @@ I write about coding, learning tips, my coding experiences as beginner etc
 - X (Twitter): [@log_Null](https://x.com/log_Null)
 
 ---
+## Achievements
+[Data Science in microsoft badge](https://learn.microsoft.com/api/achievements/share/en-us/PavithraRajesh-7774/H7SUXQF8?sharingId=2A6AB39C8114D06)
 
 > — log-Null
