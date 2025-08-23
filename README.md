@@ -37,8 +37,6 @@ I write about coding, learning tips, my coding experiences as beginner etc
 ## 📌 Currently Learning
 - Python (Advanced syntax + problem-solving)
 - Pandas, NumPy, Matplotlib
-- Gen AI fundamentals 
-- HackerRank Beginner Series
 -  AI tools
 
 ---
