@@ -12,7 +12,7 @@
 
 
 ## 👨‍💻 Projects & Learning Portfolio
-Here’s what I’ve been working  on:
+Here’s what I’ve been working   on:
 
 - 🔧 [**Data-Science-Projects-and-Tools**](https://github.com/log-Null/Data-Science-Projects-and-Tools)  
   Practical notebooks and tools created while learning Data Science.
