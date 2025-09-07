@@ -7,8 +7,6 @@
 
 ---
 
-## 💼 Current Roles
-- 🎓 Intern @ **Teklearn** (Data Science).
 
 
 ## 👨‍💻 Projects & Learning Portfolio
