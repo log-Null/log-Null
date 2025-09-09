@@ -2,7 +2,7 @@
 
 
 🚀  B.Tech CSE student | 🧠 Aspiring AI & Data Science Engineer.  
-🖊️ Tech Blogger at **Steps to Tech World** -(https://steps-to-tech-world.hashnode.dev/) |
+🖊️ Tech Blogger at **Steps to Tech World** -(https://steps-to-tech-world.hashnode.dev/)  |
 🔍 Exploring Python, Data Science, Gen AI | Actively participating in HackerRank challenges and hackathons .
 
 ---
