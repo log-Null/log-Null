@@ -1,6 +1,5 @@
 # print("Helloo!!")
 
-
 🚀  B.Tech CSE student | 🧠 Aspiring data analyst Engineer.
 
 🖊️ Tech Blogger at **Steps to Tech World** -(https://steps-to-tech-world.hashnode.dev/)  |
